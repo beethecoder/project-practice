@@ -7,5 +7,6 @@ public class PrintPattern {
             }
             System.out.println();
         }
+        System.out.println("Changes from Sumana");
     }
 }
